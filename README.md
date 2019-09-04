@@ -1,2 +1,2 @@
 # TestGitHub
-This is subrat about to write my first program and commit it.
+Hello Akshat How are you just a simple reading file changed
